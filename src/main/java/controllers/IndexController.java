@@ -7,13 +7,8 @@ import javax.inject.Named;
 
 @ViewScoped
 @Named
-
-
 public class IndexController implements Serializable {
-	
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 	
 	private String prenom = "Olivier";
